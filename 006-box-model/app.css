@@ -9,6 +9,36 @@ img {
 }
 /* Code Under This Line */
 
+.box-model {
+  display: block;
+  margin: 0 auto;
+}
+
+.a {
+  width: 715px;
+  height: 250px;
+  background-color: #FFED5D;
+  margin: 0 auto;
+}
+
+.b {
+  background-color: #FF7050;
+  height: 75%;
+  margin: 20px;
+}
+
+.c {
+  background-color: #222;
+  height: 60%;
+  margin: 30px 30px 0 30px;
+}
+
+.d {
+  background-color: #7BBADE;
+  height: 55%;
+  margin: 10px 30px 0 30px;
+}
+
 /*
   Colors:
   #FFED5D
