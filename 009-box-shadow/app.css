@@ -14,3 +14,8 @@ img {
 }
 
 /* Your Code Goes Under This Line */
+
+.box {
+  box-shadow: 1px 1px 8px 1px rgba(0, 0, 0, 0.1), -5px -10px 2px blue, 10px 2px 5px red, -1px 10px 5px lime;
+
+}
