@@ -24,3 +24,11 @@ div {
 }
 
 /* Your Code Goes Under This Line */
+
+html, body {
+  width: 100%;
+}
+
+.column {
+  padding: 20px 0;
+}
